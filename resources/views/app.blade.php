@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description"
-        content=" yasmine ">
+        content=" yasmine">
 
     <title inertia>{{ config('app.name', 'Zephyr') }}</title>
 
