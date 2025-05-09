@@ -2,7 +2,7 @@ import { useAutoAnimate } from "@formkit/auto-animate/react";
 import Sidebar from "@/components/Sidebar";
 import AppBar from "@/components/AppBar";
 
-import "@/styles/App.css";
+import "@/styles/app.css";
 
 export default function AppLayout({ children }) {
     const [parent] = useAutoAnimate({ duration: 300 });
